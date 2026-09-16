@@ -1,3 +1,5 @@
+import "./globals.css";
+
 export const metadata = {
   title: "Ali Store",
   description: "Ali Store - Alight Motion Premium",
